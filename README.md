@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=23f3004149&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<img align="right" width="280" src="assets/img1.png">
+<img align="right" width="350" src="assets/img3.png">
 
 - 🔭 Currently building projects in Machine Learning and Full Stack
 
