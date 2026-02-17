@@ -5,12 +5,13 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I'm%20Vaibhav%20Pandey&textBg=false" />
 </p>
 
-
 <h3 align="center">Learning how data becomes decisions</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=23f3004149&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+
+<img align="right" width="280" src="assets/img1.png">
 
 - 🔭 Currently building projects in Machine Learning and Full Stack
 
