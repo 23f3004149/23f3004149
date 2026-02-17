@@ -21,13 +21,13 @@
 
 - 📫 How to reach me **vaibhavraj5104@gmail.com**
 
-- 🙂 My things **Movie, music,painting,cooking & multitasking**
+- 🙂 My things **movie, music,drawing,cooking & multitasking**
 
-- 👨‍🎓 BS Data Science, IIT Madras, IN
+- 👨‍🎓 BS Data Science, IIT Madras
 
 - ⚡ Fact: I like observing how people solve problems differently
 
-- 👨‍🎓 BCA, VBSPU University, IN
+- 👨‍🎓 BCA, VBSPU University
 
 # ⚙️ Tech Stack
 <p>
@@ -57,7 +57,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vaibhavraj5104")
 
 # 📊 GitHub Stats
-<img  src="https://streak-stats.demolab.com?user=23f3004149&theme=aura&hide_border=true&card_width=550"/>
+<img  src="https://streak-stats.demolab.com?user=23f3004149&theme=aura&hide_border=true&card_width=1050"/>
 
 
 # ✨ Badges
