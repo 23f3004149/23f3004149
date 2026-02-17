@@ -8,7 +8,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=23f3004149&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-<img align="right" alt="japan-art" width="300" src="assets/japan.png"/>
 
 🔭 Currently building projects in Machine Learning and Full Stack
 
@@ -17,3 +16,44 @@
 🧩 Interested in collaborating on real-world problem solving projects
 
 ⚡ Fun fact: I like observing how people solve problems differently
+
+# ⚙️ Tech Stack
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+# 📊 GitHub Stats:
+<img  src="https://streak-stats.demolab.com?user=23f3004149&theme=aura&hide_border=true&card_width=550"/>
+
+# 💻 Competitive Programming
+
+<p align="center">
+<a href="https://www.hackerrank.com/vaibhavraj5104">
+  <img src="https://img.shields.io/badge/HackerRank-vaibhavraj5104-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+</p>
+
+# ✨ Badges
+[![An image of @nebulatris's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nebulatris)](https://holopin.io/@23f3004149)
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
