@@ -9,13 +9,21 @@
   <img src="https://komarev.com/ghpvc/?username=23f3004149&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-🔭 Currently building projects in Machine Learning and Full Stack
+- 🔭 Currently building projects in Machine Learning and Full Stack
 
-🌱 Prefer building small things until they make sense
+- 🌱 Prefer building small things until they make sense
 
-🧩 Interested in collaborating on real-world problem solving projects
+- 🧩 Interested in collaborating on real-world problem solving projects
 
-⚡ Fun fact: I like observing how people solve problems differently
+- 📫 How to reach me **vaibhavraj5104@gmail.com**
+
+- 🙂 My things **Movie, music,painting,cooking & multitasking**
+
+- 👨‍🎓 BS Data Science, IIT Madras, IN
+
+- ⚡ Fact: I like observing how people solve problems differently
+
+- 👨‍🎓 BCA, VBSPU University, IN
 
 # ⚙️ Tech Stack
 <p>
@@ -41,16 +49,12 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-# 📊 GitHub Stats:
+# 👨‍💻 Competitive programming 
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vaibhavraj5104")
+
+# 📊 GitHub Stats
 <img  src="https://streak-stats.demolab.com?user=23f3004149&theme=aura&hide_border=true&card_width=550"/>
 
-# 💻 Competitive Programming
-
-<p align="center">
-<a href="https://www.hackerrank.com/vaibhavraj5104">
-  <img src="https://img.shields.io/badge/HackerRank-vaibhavraj5104-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a>
-</p>
 
 # ✨ Badges
 [![An image of @nebulatris's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nebulatris)](https://holopin.io/@23f3004149)
